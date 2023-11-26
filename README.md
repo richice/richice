@@ -2,7 +2,7 @@
 
 <div>
     <kbd align="center" valign="center">
-        <a href="https://github.com/Charmve/computer-vision-in-action">
+        <a href="=https://github.com/richice">
             <img align="right" src="https://komarev.com/ghpvc/?username=Charmve&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
         </a>
         <u><i>These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">github action</a>.</i></u> &ensp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -13,16 +13,13 @@
 
 Welcome to my page!
 
-I am Bing Shuai. <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>, I am applying for a PhD degree. I aim to be the best NLPer in AEC. I am open and excited to all these possibilities.
-
-
-<img align="right" alt="GIF" src="src/assert/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/richice" >say <b>"hi 👋" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+I am Bing Shuai. I am applying for a PhD degree. I aim to be the best NLPer in AEC. 
 
 <!--my introduction start-->
-<!-- The one on the left is [Richice]([https://github.com/Charmve](https://github.com/richice))（帅冰）, she will speak for me in the virtual world. -->
-> You can find how to contact me in the following paltform icon url. You can follow me to find something more interesting.
+<!-- The one on the left is [Richice](https://github.com/richice)（帅冰）, she will speak for me in the virtual world. -->
+> 
 
-- 🌱  I’m currently writing thesis (BERT finetuning + GPT engineering) at Zhejiang University. After complement I will update the dataset at [My GitHub repos](https://github.com/richice?tab=repositories).
+- 🌱  I’m currently writing my graduate thesis (BERT finetuning + GPT engineering) at Zhejiang University. Then I will update its dataset at [My GitHub repos](https://github.com/richice?tab=repositories).
 - 🌱  My research interests lie at <b>NLP</b>, <b>LLM</b> and <b>UI</b>. 
 - 🌱  Two specific interests: 
   1. LLM-based Agent [<i>GPT Assistants</i>](https://platform.openai.com/docs/assistants/overview/agents). 
@@ -30,10 +27,8 @@ I am Bing Shuai. <sup><a href="https://github.com/Charmve/Charmve/blob/master/Oc
 - ❤️ I like yoga 🍉, music 🎵, cooking for family 🤔, working out 🏓, and Pokemon 🐱.
 - ❤️ My favorite day is Tuesday because I ride my bike 🚲 to Faxi Temple and talk to Buddha 👂.
 - 💬 Be free to ask me about anything [here](22112301@zju.edu.cn).
+dic://complement
 
---
-
-</details>
 
 <!--my introduction end -->
 
