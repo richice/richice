@@ -22,12 +22,13 @@ I am Bing Shuai. <sup><a href="https://github.com/Charmve/Charmve/blob/master/Oc
 <!-- The one on the left is [Richice]([https://github.com/Charmve](https://github.com/richice))（帅冰）, she will speak for me in the virtual world. -->
 > You can find how to contact me in the following paltform icon url. You can follow me to find something more interesting.
 
-- 🔭 I’m currently writing some amateur [open source projects](https://github.com/Charmve?tab=repositories), at [@Maiwei.ai](https://github.com/MaiweiAI) and [@UFund](https://github.com/UFund-Me/) by myself. A closed-loop online studying open-source repo is public at [<i><b>@computer-vision-in-action</b></i>](https://github.com/Charmve/computer-vision-in-action) <a href="https://charmve.github.io/computer-vision-in-action"><sup><i><b>Hot</b></i></sup></a>, and more interesting project can be found at [My GitHub repos](https://github.com/Charmve?tab=repositories).
-- 🌱 I’m currently working at Momenta.ai, an <b>autonomous driving</b> company. Before that, I was employed at Future Security Labs of Qihoo 360 as a Research SDE. My research interests lie at <b>Machine Learning</b> and <b>Computer Vision</b>. ([#2](https://github.com/Charmve/Charmve/issues/2))
-- 🤔 Only two things make me moved. 
-  1. To build a cross-platform [<i>VTuber</i>](https://github.com/DeepVTuber) in meta world, which called [未麻 MIMA](https://github.com/DeepVTuber/MIMA). 
-  2. <i>Bring Autonomous Driving into Real Life</i>. To solve the long tail problem and to optimize mass production performance is the goal.
-- ❤️ I like eating 🍉, cooking 🐓, walking out 🏓, sleeping in ☀ and 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
+- 🌱  I’m currently writing thesis (BERT finetuning + GPT engineering) at Zhejiang University. After complement I will update the dataset at [My GitHub repos](https://github.com/richice?tab=repositories).
+- 🌱  My research interests lie at <b>NLP</b>, <b>LLM</b> and <b>UI</b>. 
+- 🌱  Two specific interests: 
+  1. LLM-based Agent [<i>GPT Assistants</i>](https://platform.openai.com/docs/assistants/overview/agents). 
+  2. Human-robot Interaction. [<i>RoboAgent</i>](https://robopen.github.io/). 
+- ❤️ I like yoga 🍉, music 🎵, cooking for family 🤔, and working out 🏓.
+- ❤️ My favorite day is Tuesday because I ride my bike 🚲 to Faxi Temple and talk to Bodhisattva 👂.
 - 💬 Be free to ask me about anything [here](22112301@zju.edu.cn).
 
 --
