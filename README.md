@@ -99,7 +99,7 @@ Related to my paper. [A rationale-augmented NLP framework to identify unilateral
                   <p>NLP-based Automated Detection of the Owner-modification-oriented Risk<br><sub>VSTO-based Microsoft Excel add-in component </sub></p>
                 </blockquote>
                 <p align="right">
-                  Code with <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji> &amp; <g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"><img class="emoji" alt="coffee" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"></g-emoji> &nbsp;&nbsp; <a href="https://github.com/Charmve">@Charmve</a> 2017~2023 &nbsp;
+                  Paper <g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><a href="https://github.com/Charmve?tab=repositories&q=&type=source&language=&sort=stargazers](https://www.sciencedirect.com/science/article/abs/pii/S0166361523000908">A rationale-augmented NLP framework to identify unilateral contractual change risk for construction projects</a> 2023 &nbsp;
                 </p>
             </div>
         </td>
