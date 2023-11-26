@@ -73,7 +73,7 @@ I am Bing Shuai. <sup><a href="https://github.com/Charmve/Charmve/blob/master/Oc
 <!--START_SECTION:waka-->
 ```text
 Python     5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
-PyTorch    1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+PS         1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 Markdown   1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 VSTO       34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
