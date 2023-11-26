@@ -36,108 +36,10 @@ I am Bing Shuai. <sup><a href="https://github.com/Charmve/Charmve/blob/master/Oc
 
 <!--my introduction end -->
 
-<br>
-
-<!-- github stats
-<p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
-    --
-  </a>
-</p>
--->
-
-<p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="JackHCC's Stats" >
-    -->
-  </a>
-</p>
-
-<!--  media account 
-<div align="center">
-  <a href="https://www.zhihu.com/people/MaiweiE-com" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="3%" alt="" /></a>
-  <a href="https://charmve.medium.com/" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/219255827-67c1a27f-f8c5-46a9-811d-5e57448c61d1.png" width="3%" alt="" /></a>
-  <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="3%" alt="" />
-  <a href="" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/218347213-c080267f-cbb6-443e-8532-8e1ed9a58ea9.png" width="3%" alt="" /></a>
-  <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="3%" alt="" />
-  <a href="https://twitter.com/" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/218346637-d30c8a0f-3eba-4699-8131-512fb06d46db.png" width="3%" alt="" /></a>
-  <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="3%" alt="" />
-  <a href="https://www.youtube.com/@Charmve" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/218346691-ceb2116a-465a-40af-8424-9f30d2348ca9.png" width="3%" alt="" /></a>
-  <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="3%" alt="" />
-  <a href="https://space.bilibili.com/62079686" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/219026751-d7d14cce-a7c9-4e82-9942-8375fca65b99.png" width="3%" alt="" /></a>
-  <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="3%" alt="" />
-</div>
- --->
-
-<p align="center">
-  <a href= "src/assert/maiwei_paper.png" target="_blank" alt="WeChat" title="WeChat">
-    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://blog.csdn.net/Charmve" target="_blank" alt="CSDN" title="CSDN">
-    <img src="src/assert/icons/csdn.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="src/assert/icons/zhihu.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://space.bilibili.com/62079686" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="src/assert/icons/bilibili.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href= "https://www.instagram.com/charmve_/" target="_blank" alt="Instagram" title="Instagram">
-    <img src="src/assert/icons/instagram.svg" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ" target="_blank" alt="YouTube" title="YouTube">
-    <img src="src/assert/icons/youtube-play.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href="https://www.linkedin.com/in/charmve" target="_blank" alt="LinkedIn" title="LinkedIn">
-    <img src="src/assert/icons/linkedin.svg" width="26px"/>
-  </a>
-  &emsp;
-  <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.strrl.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.strrl.dev/years/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Charmve?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/Charmve">
-    <img src="https://badges.strrl.dev/gists/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.strrl.dev/commits/monthly/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-</p>
 
 <h2></h2>
 
-👈 Follow me on the left（点击左侧关注我）
 
-<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- stackoverflow profile
-<a href="https://stackoverflow.com/users/8317261/charmve"><img align="right" alt="Profile of Charmve (张伟) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>-->
- 
 **Languages and Frameworks**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
