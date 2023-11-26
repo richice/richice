@@ -83,8 +83,6 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 
 ### 🖥️ Open-Source Dataset &emsp; <a href="AWESOME-STARS.md"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/Charmve?tab=repositories"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code></a>
 
-Related to my paper. [A rationale-augmented NLP framework to identify unilateral contractual change risk for construction projects]([https://github.com/Charmve?tab=repositories&q=&type=source&language=&sort=stargazers](https://www.sciencedirect.com/science/article/abs/pii/S0166361523000908))
-
 
 <table align="center" style="table-layout: auto; width: 100%;">
     <tr>
@@ -99,7 +97,7 @@ Related to my paper. [A rationale-augmented NLP framework to identify unilateral
                   <p>NLP-based Automated Detection of the Owner-modification-oriented Risk<br><sub>VSTO-based Microsoft Excel add-in component </sub></p>
                 </blockquote>
                 <p align="right">
-                  Paper <g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><a href="https://github.com/Charmve?tab=repositories&q=&type=source&language=&sort=stargazers](https://www.sciencedirect.com/science/article/abs/pii/S0166361523000908">A rationale-augmented NLP framework to identify unilateral contractual change risk for construction projects</a> 2023 &nbsp;
+                  Related to my paper <g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0166361523000908">A rationale-augmented NLP framework to identify unilateral contractual change risk for construction projects</a> 2023 &nbsp;
                 </p>
             </div>
         </td>
@@ -127,79 +125,6 @@ Related to my paper. [A rationale-augmented NLP framework to identify unilateral
 [Binder]:https://img.shields.io/badge/Binder-black?style=flat-square&logo=binder
 [Docker]:https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker
 
-<table><tbody>
-<tr><th> Application Development </th><th> Machine Learning & Computer Vision </th></tr>
-<tr><td colspan="1" rowspan="4">
-
-<table class="table table-striped table-bordered table-vcenter"/>
-    <tbody>
-    <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Progressing</th></tr>
-    <tr>
-        <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
-            <a href="https://github.com/UFund-Me" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/Qbot/main/gui/imgs/UFund.png" align="center" alt="UFund" width="36" style="vertical-align:bottom;"/> <br> UFund </a>
-        </td>
-        <td><a href="https://github.com/UFund-Me/Qbot" target="_blank"> 🤖 Qbot</a> <br> <sub>AI智能量化投研平台</sub> </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/UFund-Me/Qbot?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-86%25-green&logo=github"/></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/UFund-Me/UFund" target="_blank"> UFund-Assistant</a> <br> <sub>智能基金理财助理帮你健康理财决策，提高理财收益</sub> </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/UFund-Me/UFund?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-60%25-green&logo=github"/></td>
-    </tr>
-    <tr>
-        <td align="center" ><a href="https://charmve.github.io/L0CV-web" target="_blank"><img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/maiwei.png" alt="L0CV" width="36" style="vertical-align:bottom;"/>  <br> L0CV </a></td>
-        <td> <sub>一个代码可在线交互运行的计算机视觉闭环学习平台</sub>  <br> <a href="https://charmve.github.io/L0CV-web" target="_blank">Project Home</a> | <a href="https://github.com/Charmve/computer-vision-in-action" target="_blank">GitHub</a> </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/computer-vision-in-action?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-82%25-green&logo=github"/></td>
-    </tr>
-    <tr>
-        <td align="center" ><a href="https://github.com/Charmve/AR-DAO" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/AR-DAO/main/ar-cutpaste/app/assets/icon.png" alt="AR-DAO" width="36" style="vertical-align:bottom;"/>  <br> AR-DAO </a></td>
-        <td> <sub>一个让用户通过增强现实（AR）铸造NFT并参与不同游戏等<br>社交活动的去中心化自治组织(DAO)</sub> </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AR-DAO?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-70%25-green&logo=github"/></td>
-    </tr>
-    <tr>
-        <td align="center" ><a href="https://github.com/DeepVTuber" target="_blank"><img src="https://avatars.githubusercontent.com/u/76906704?s=200&v=4" alt="VTuber" width="36" style="vertical-align:bottom;"/> <br> Vtuber </a></td>
-        <td> <sub>OpenVTuber - 虚拟アイドル共享计划</sub> <br> <a href="https://github.com/DeepVTuber/OpenVTuber" target="_blank"> OpenVTuber </a>
-          | <a href="https://github.com/DeepVTuber/DeepVTB" target="_blank">DeepVTB</a>
-          | <a href="https://github.com/DeepVTuber/DanceNet3D" target="_blank">DanceNet3D</a>
-        </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/DeepVTuber/OpenVTuber?style=flat-square&labelColor=black"/> 
-          | <img alt="Stars" src="https://img.shields.io/github/stars/DeepVTuber/DeepVTB?style=flat-square&labelColor=black"/> 
-          | <img alt="Stars" src="https://img.shields.io/github/stars/DeepVTuber/DanceNet3D?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-72%25-green&logo=github"/></td>
-    </tr>
-    <tr>
-        <td align="center" ><a href="https://github.com/ScanCan/ScanCan" target="_blank"><img src="https://raw.githubusercontent.com/ScanCan/ScanCan/main/logo.png" alt="ScanCan" width="36" style="vertical-align:bottom;"/>  <br> ScanCan </a></td>
-        <td> <sub>扫一扫，不一定是二维码</sub> </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/ScanCan/ScanCan?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-60%25-green&logo=github"/></td>
-    </tr>
-    <tr>
-        <td align="center" ><a href="https://github.com/Charmve/TimeWarp" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/TimeWarp/main/images/ui/logo_V.png" alt="TimeWarp" width="36" style="vertical-align:bottom;"/>  <br> TimeWarp </a></td>
-        <td> <sub>Replacing Real-Time the High-Resolution Meeting Background Freely</sub> </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/TimeWarp?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-24%25-green&logo=github"/></td>
-    </tr>
-    <tr>
-        <td align="center" ><a href="https://github.com/Charmve/iva-alpha" target="_blank"><img src="https://user-images.githubusercontent.com/29084184/218303915-ab3cd907-98e8-4663-a377-e8799516bf71.png" alt="IVA-alpha" width="36" style="vertical-align:bottom;"/> <br> IVA-alpha </a></td>
-        <td> <sub>工业互联网资产安全态势感知与攻击评估平台</sub> </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/ScanCan/ScanCan?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-94%25-green&logo=github"/></td>
-    </tr>
-    <tr>
-        <td colspan="4" rowspan="1" align="center" valign="center">
-
-        </td>
-    </tr>
-    </tbody>
-</table>
-    
-| Title | Description | Stars | Technologies |
-|--|--|--|--|
-| [AccANN](https://github.com/Charmve/AccANN) | <sub> A compiler from AI model to RTL (Verilog) accelerator in FPGA hardware with auto design space exploration</sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AccANN?style=flat-square&labelColor=black"/> | ![TensorFlow][TensorFlow]|
-| [jsFlow](https://github.com/Charmve/jsFlow) | <sub> A Lightweight Web Browser-based Machine Learning Framework </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/jsFlow?style=flat-square&labelColor=black"/> | ![TensorFlow][TensorFlow] ![JavaScript][JavaScript] |
 
 
 🚧 **My study-list Stats: ⬇️**
@@ -209,5 +134,5 @@ Related to my paper. [A rationale-augmented NLP framework to identify unilateral
 -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Qbot](https://github-readme-stats.vercel.app/api/pin/?username=UFund-Me&repo=Qbot)](https://github.com/UFund-Me/Qbot) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![gpt-eyes](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=gpt-eyes)](https://github.com/Charmve/gpt-eyes)  
 
-
-
+Website reference:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Charmve](https://github-readme-stats.vercel.app/api/pin/?username=UFund-Me&repo=Qbot)](https://github.com/Charmve/Charmve/blob/master/README.md?plain=1)
