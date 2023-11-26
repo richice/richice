@@ -81,7 +81,7 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-### 🖥️ Open-Source Dataset &emsp; <a href="AWESOME-STARS.md"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/Charmve?tab=repositories"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code></a>
+### 🖥️ Open-Source Dataset &emsp; <a href="AWESOME-STARS.md"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/richice"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code></a><a href="https://scholar.google.com/citations?user=SVbfxLQAAAAJ&hl=zh-CN&oi=sra">
 
 
 <table align="center" style="table-layout: auto; width: 100%;">
@@ -97,7 +97,7 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
                   <p>NLP-based Automated Detection of the Owner-modification-oriented Risk<br><sub>VSTO-based Microsoft Excel add-in component </sub></p>
                 </blockquote>
                 <p align="right">
-                  Related to my paper <g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0166361523000908">A rationale-augmented NLP framework to identify unilateral contractual change risk for construction projects</a> 2023 &nbsp;
+                  Related to my paper <g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0166361523000908">A rationale-augmented NLP framework to identify unilateral contractual change risk for construction projects</a> <i>Computers in Industry</i>2023 &nbsp;
                 </p>
             </div>
         </td>
