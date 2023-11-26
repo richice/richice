@@ -22,8 +22,8 @@ I am Bing Shuai. I am applying for a PhD degree. I aim to be the best NLPer in A
 - 🌱  I’m currently writing my graduate thesis (BERT finetuning + GPT engineering) at Zhejiang University. Then I will update its dataset at [My GitHub repos](https://github.com/richice?tab=repositories).
 - 🌱  My research interests lie at <b>NLP</b>, <b>LLM</b> and <b>UI</b>. 
 - 🌱  Two specific interests: 
-  1. LLM-based Agent [<i>GPT Assistants</i>](https://platform.openai.com/docs/assistants/overview/agents). 
-  2. Human-robot Interaction. [<i>RoboAgent</i>](https://robopen.github.io/). 
+  1. LLM-based Agent e.g. [<i>GPT Assistants</i>](https://platform.openai.com/docs/assistants/overview/agents). 
+  2. Human-robot Interaction e.g. [<i>RoboAgent</i>](https://robopen.github.io/). 
 - ❤️ I like yoga 🍉, music 🎵, cooking for family 🤔, working out 🏓, and Pokemon 🐱.
 - ❤️ My favorite day is Tuesday because I ride my bike 🚲 to Faxi Temple and talk to Buddha 👂.
 - 💬 Be free to ask me @ 22112301@zju.edu.cn.
