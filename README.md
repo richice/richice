@@ -27,8 +27,6 @@ I am Bing Shuai. I am applying for a PhD degree. I aim to be the best NLPer in A
 - ❤️ I like yoga 🍉, music 🎵, cooking for family 🤔, working out 🏓, and Pokemon 🐱.
 - ❤️ My favorite day is Tuesday because I ride my bike 🚲 to Faxi Temple and talk to Buddha 👂.
 - 💬 Be free to ask me about anything [here](22112301@zju.edu.cn).
-dic://complement
-
 
 <!--my introduction end -->
 
