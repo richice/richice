@@ -9,18 +9,17 @@
     </kbd>
 </div>
 
-<h2><img src="src/assert/hellokittydance.gif" alt="Hi" width="42" /> 欢迎来访我的GitHub </h2>
+<h2><img src="src/assert/hellokittydance.gif" alt="Hi" width="42" /> Nice to meet you. </h2>
 
-我的网名是`Charmve` <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>，是一名软件开发工程师，先后任职于360、Momenta，对自动驾驶视觉感知、系统架构、软件开发有略微认识。另外，在量化交易摸爬滚打，也有几年策略研究和实践。目前，我主要关注在：端到端、大模型、自动驾驶、量化交易。下方可以看到我开源的相关项目repo。
+Welcome to my page!
 
-个人主页：https://charmve.github.io
+I am Bing Shuai. <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>, I am applying for a PhD degree. I aim to be the best NLPer in AEC. I am open and excited to all these possibilities.
 
-希望跟大家一起多多交流，感兴趣的可以继续看下去。
 
-<img align="right" alt="GIF" src="src/assert/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/Charmve/Charmve/issues/new" >say <b>"hi 👋" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+<img align="right" alt="GIF" src="src/assert/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/richice" >say <b>"hi 👋" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
 
 <!--my introduction start-->
-<!-- The one on the left is [Charmve](https://github.com/Charmve)（益达）, he will speak for me in the virtual world. -->
+<!-- The one on the left is [Richice]([https://github.com/Charmve](https://github.com/richice))（帅冰）, she will speak for me in the virtual world. -->
 > You can find how to contact me in the following paltform icon url. You can follow me to find something more interesting.
 
 - 🔭 I’m currently writing some amateur [open source projects](https://github.com/Charmve?tab=repositories), at [@Maiwei.ai](https://github.com/MaiweiAI) and [@UFund](https://github.com/UFund-Me/) by myself. A closed-loop online studying open-source repo is public at [<i><b>@computer-vision-in-action</b></i>](https://github.com/Charmve/computer-vision-in-action) <a href="https://charmve.github.io/computer-vision-in-action"><sup><i><b>Hot</b></i></sup></a>, and more interesting project can be found at [My GitHub repos](https://github.com/Charmve?tab=repositories).
@@ -28,12 +27,10 @@
 - 🤔 Only two things make me moved. 
   1. To build a cross-platform [<i>VTuber</i>](https://github.com/DeepVTuber) in meta world, which called [未麻 MIMA](https://github.com/DeepVTuber/MIMA). 
   2. <i>Bring Autonomous Driving into Real Life</i>. To solve the long tail problem and to optimize mass production performance is the goal.
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
-- 💬 Be free to ask me about anything [here](https://github.com/Charmve/Charmve/issues).
+- ❤️ I like eating 🍉, cooking 🐓, walking out 🏓, sleeping in ☀ and 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
+- 💬 Be free to ask me about anything [here](22112301@zju.edu.cn).
 
----
-
-  ✨ 作为团队主要负责人，率先基于英伟达Xavier、Orin芯片实现量产自动驾驶落地智己L7 [Momenta.2021]；率先推出基于地平线征程J5芯片的城市NOA量产解决方案 [轻舟智航.2022]
+--
 
 </details>
 
