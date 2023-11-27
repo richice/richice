@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-<div>
-    <kbd align="center" valign="center">
-        <a href="=https://github.com/richice">
-            <img align="right" src="https://komarev.com/ghpvc/?username=richice&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
-        </a>
-        <u><i>These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">github action</a>.</i></u> &ensp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </kbd>
-</div>
 
 <h2><img src="src/assert/hellokittydance.gif" alt="Hi" width="42" /> Nice to meet you. </h2>
 
