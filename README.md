@@ -10,7 +10,7 @@ I am Bing Shuai. I am applying for a PhD degree. I aim to be the best NLPer in A
 <!--my introduction start-->
 <!-- The one on the left is [Richice](https://github.com/richice)（帅冰）, she will speak for me in the virtual world. -->
 > 
-
+### About Me
 - 🌱  I’m currently writing my graduate thesis (BERT finetuning + GPT engineering) at Zhejiang University. Then I will update its dataset at [My GitHub repos](https://github.com/richice?tab=repositories).
 - 🌱  My research interests lie at <b>NLP</b>, <b>LLM</b> and <b>UI</b>. 
 - 🌱  Two specific interests: 
@@ -18,7 +18,6 @@ I am Bing Shuai. I am applying for a PhD degree. I aim to be the best NLPer in A
   2. Human-robot Interaction e.g. [<i>RoboAgent</i>](https://robopen.github.io/). 
 - ❤️ I like yoga 🍉, music 🎵, cooking for family 🤔, working out 🏓, and Pokemon 🐱.
 - ❤️ My favorite day is Tuesday because I ride my bike 🚲 to Faxi Temple and talk to Buddha 👂.
-### About Me
 - 🌟 Astrological Sign: Sun in Cancer, Ascendant in Capricorn
 - 🔍 MBTI Personality Type: INTJ
 
