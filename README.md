@@ -18,6 +18,10 @@ I am Bing Shuai. I am applying for a PhD degree. I aim to be the best NLPer in A
   2. Human-robot Interaction e.g. [<i>RoboAgent</i>](https://robopen.github.io/). 
 - ❤️ I like yoga 🍉, music 🎵, cooking for family 🤔, working out 🏓, and Pokemon 🐱.
 - ❤️ My favorite day is Tuesday because I ride my bike 🚲 to Faxi Temple and talk to Buddha 👂.
+### About Me
+- 🌟 Astrological Sign: Sun in Cancer, Ascendant in Capricorn
+- 🔍 MBTI Personality Type: INTJ
+
 - 💬 Be free to ask me @ 22112301@zju.edu.cn.
 
 <!--my introduction end -->
