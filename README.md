@@ -16,7 +16,7 @@ I am Bing Shuai. I am applying for a PhD degree. I aim to be the best NLPer in A
 - 🌱  Two specific interests: 
   1. LLM-based Agent e.g. [<i>GPT Assistants</i>](https://platform.openai.com/docs/assistants/overview/agents). 
   2. Human-robot Interaction e.g. [<i>RoboAgent</i>](https://robopen.github.io/). 
-- ❤️ I like yoga 🍉, music 🎵, cooking for family 🤔, working out 🏓, and Pokemon 🐱.
+- 🏳️‍🌈 I like yoga 🍉, music 🎵, cooking for family 🤔, working out 🏓, and Pokemon 🐱.
 - ❤️ My favorite day is Tuesday because I ride my bike 🚲 to Faxi Temple and talk to Buddha 👂.
 - 🌟 Astrological Sign: Sun in Cancer, Ascendant in Capricorn
 - 🔍 MBTI Personality Type: INTJ
