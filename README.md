@@ -4,7 +4,7 @@
 
 Welcome to my page!
 
-I am Bing Shuai. I am applying for a PhD. I aim to be the best NLPer in AEC. 
+I am Bing Shuai. I'm about to start my PhD at UT Austin.. I aim to be the best NLPer in AEC. 
 
 <!--my introduction start-->
 <!-- The one on the left is [Richice](https://github.com/richice)（帅冰）, she will speak for me in the virtual world. -->
@@ -20,7 +20,7 @@ I am Bing Shuai. I am applying for a PhD. I aim to be the best NLPer in AEC.
 - 🌟 Astrological Sign: Sun in Cancer, Ascendant in Capricorn
 - 🔍 MBTI Personality Type: INTJ
 
-- 💬 Be free to ask me @ 22112301@zju.edu.cn.
+- 💬 Be free to ask me @ bingshuai@utexas.edu.
 
 <!--my introduction end -->
 
