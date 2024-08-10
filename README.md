@@ -4,7 +4,7 @@
 
 Welcome to my page!
 
-I am Bing Shuai. I'm about to start my PhD at UT Austin.. I aim to be the best NLPer in AEC. 
+I am Bing Shuai. I'm about to start my PhD at UT Austin. I aim to be the best NLPer in AEC. 
 
 <!--my introduction start-->
 <!-- The one on the left is [Richice](https://github.com/richice)（帅冰）, she will speak for me in the virtual world. -->
