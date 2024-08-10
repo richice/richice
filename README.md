@@ -32,6 +32,7 @@ I am Bing Shuai. I'm about to start my PhD at UT Austin. I aim to be the best NL
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" title="JSON"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" title="C#"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218292066-c36545bd-47ac-4838-8958-1399009c3cc8.png" alt="SQLite" title="SQLite"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291286-3d84ebcb-c266-454b-bce2-b2f4ac01886f.png" alt="Djongo" title="Djongo"></code>
@@ -49,7 +50,7 @@ I am Bing Shuai. I'm about to start my PhD at UT Austin. I aim to be the best NL
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" title="Matlab"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
-    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" alt="Unity" title="Unity"></code>    
 <br>
 
 📊 **This Week I Spent My Time On:**
