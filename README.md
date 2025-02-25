@@ -18,9 +18,7 @@ I am Bing Shuai. I'm about to start my PhD at UT Austin. I aim to be the best NL
 - 🏳️‍🌈 I like yoga 🍉, music 🎵, cooking for family 🤔, working out 🏓, and Pokemon 🐱.
 - ❤️ My favorite day is Tuesday because I ride my bike 🚲 to Faxi Temple and talk to Buddha 👂.
 - 🌟 Astrological Sign: Sun in Cancer, Ascendant in Capricorn
-- 🔍 MBTI Personality Type: INTJ
-
-- 💬 Be free to ask me @ bingshuai@utexas.edu.
+- 🔍 MBTI Personality Type: INTJ 
 
 <!--my introduction end -->
 
